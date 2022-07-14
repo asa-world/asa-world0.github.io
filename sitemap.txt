@@ -1,2 +1,2 @@
-http://example.com/2022/07/01/hello-world/
-http://example.com/
+https://github.com/asa-world/2022/071463410.html
+https://github.com/asa-world
